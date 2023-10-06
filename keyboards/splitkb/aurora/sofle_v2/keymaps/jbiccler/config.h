@@ -22,7 +22,7 @@
 #define ENABLE_RGB_MATRIX_SOLID_SPLASH
 #define ENABLE_RGB_MATRIX_RAINBOW_BEACON
 #define ENABLE_RGB_MATRIX_CYCLE_LEFT_RIGHT
-#define TAPPING_TERM 200
+#define TAPPING_TERM 150
 #define PERMISSIVE_HOLD
 // Enable rapid switch from tap to hold, disables double tap hold auto-repeat.
 // #define QUICK_TAP_TERM 0
